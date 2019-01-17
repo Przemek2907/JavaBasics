@@ -1,0 +1,122 @@
+{
+  "cars": [
+    {
+      "model": "AUDI",
+      "price": 100000,
+      "color": "RED",
+      "mileage": 12500,
+      "components": [
+        "ABS",
+        "KLIMA",
+        "RADIO"
+      ]
+    },
+    {
+      "model": "AUDI",
+      "price": 80000,
+      "color": "YELLOW",
+      "mileage": 2500,
+      "components": [
+        "ABS",
+        "KLIMA",
+        "RADIO"
+      ]
+    },
+    {
+      "model": "OPEL",
+      "price": 90000,
+      "color": "WHITE",
+      "mileage": 8500,
+      "components": [
+        "ABS",
+        "KLIMA",
+        "RADIO",
+        "NITRO"
+      ]
+    },
+    {
+      "model": "VOLVO",
+      "price": 120000,
+      "color": "RED",
+      "mileage": 92500,
+      "components": [
+        "ABS",
+        "KLIMA",
+        "RADIO",
+        "ESP",
+        "GPS"
+      ]
+    },
+    {
+      "model": "AUDI",
+      "price": 110000,
+      "color": "BLACK",
+      "mileage": 500,
+      "components": [
+        "ABS",
+        "KLIMA",
+        "RADIO",
+        "ESP",
+        "GPS"
+      ]
+    },
+    {
+      "model": "MERCEDES",
+      "price": 450000,
+      "color": "BLACK",
+      "mileage": 22500,
+      "components": [
+        "ABS",
+        "KLIMA",
+        "RADIO",
+        "NITRO"
+      ]
+    },
+    {
+      "model": "OPEL",
+      "price": 15000,
+      "color": "WHITE",
+      "mileage": 122500,
+      "components": [
+        "ABS",
+        "KLIMA"
+      ]
+    },
+    {
+      "model": "VOLVO",
+      "price": 180000,
+      "color": "GREEN",
+      "mileage": 282500,
+      "components": [
+        "ABS",
+        "KLIMA",
+        "RADIO",
+        "ESP"
+      ]
+    },
+    {
+      "model": "LAMBORGHINI",
+      "price": 450000,
+      "color": "RED",
+      "mileage": 12500,
+      "components": [
+        "ABS",
+        "KLIMA",
+        "ESP",
+        "ALLOY WHEELS",
+        "RADIO",
+        "NITRO"
+      ]
+    },
+    {
+      "model": "SKODA",
+      "price": 95000,
+      "color": "RED",
+      "mileage": 12500,
+      "components": [
+        "RADIO",
+        "KLIMA"
+      ]
+    }
+  ]
+}
